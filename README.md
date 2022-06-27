@@ -1,4 +1,4 @@
-# mvvm_flutter_example
+# MVVM Flutter Example
 
 A new Flutter project.
 
